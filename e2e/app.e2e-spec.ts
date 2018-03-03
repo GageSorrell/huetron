@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('huetron App', () => {
+describe('huetron-temp App', () => {
   let page: AppPage;
 
   beforeEach(() => {
